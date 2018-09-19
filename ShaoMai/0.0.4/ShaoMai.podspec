@@ -27,7 +27,7 @@ s.source_files  = "ShaoMai/ShaoMai/Core/*.{h,m}"
 #end
 
 #s.subspec 'Expand' do |sss|#.{h,m}
-#sss.source_files = 'ShaoMai/ShaoMai/Core/Expand/**/*'
+#sss.source_files = 'ShaoMai/ShaoMai/Core/Expand/*.{h,m}'
 #end
 # s.resources = 'Assets'
 
